@@ -1,7 +1,5 @@
 #
 
-### **This tutorial is still in progress :blush::pray:**
-
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
 # Arduino MKR1000 & Thinger
@@ -83,8 +81,13 @@ To build this project, you need the following items:
   
   ![Setup_Thinger_Dashboard](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/2_Setup_Thinger_Dashboard.png)
 
+- Go to your dashboard, then create widgets to control and/or monitor your device. On your dashboard click __+Add Widget__ & feel free to use any Thinger's widgets. On this project, I use:
+  - __On/Off State__ (_to control my LED on/off_),
+  - __Slider__ (_to control the brightness of my LED_),
+  - __Donut Chart__ (_show my potentiometer value as a gauge_), and
+  - __Time Series Chart__ (_show my potentiometer value as a bar graph_). 
 
-> ## **Sorry, I'll write the next steps asap! Please wait for it!**
+  ![Setup_Thinger_Dashboard](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/2_Setup_Thinger_Dashboard.png)
 
 #
 
