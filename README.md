@@ -87,7 +87,7 @@ To build this project, you need the following items:
   - __Donut Chart__ (_show my potentiometer value as a gauge_), and
   - __Time Series Chart__ (_show my potentiometer value as a bar graph_). 
 
-  ![Setup_Thinger_Dashboard](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/2_Setup_Thinger_Dashboard.png)
+  ![Setup_Thinger_Dashboard](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/3_Setup_Thinger_Widget.png)
 
 #
 
