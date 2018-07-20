@@ -1,6 +1,6 @@
 #
 
-### **still in progress**
+### **This tutorial is still in progress :blush::pray:**
 
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
@@ -32,7 +32,7 @@ To build this project, you need the following items:
 
 - First, you have to sign up or login to [Thinger.io](https://thinger.io/). Then create a virtual device: click __Devices__ menu, and click __+Add Device__ button. Fill out the forms: __Device Id, Device description__ & __Device credentials__, then click __Add Device__.
   
-  ![Setup_Thinger_Device](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+  ![Setup_Thinger_Device](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/1_Setup_Thinger_Device.png)
 
 #
 
@@ -40,7 +40,7 @@ To build this project, you need the following items:
 
 - Connect your parts to Arduino MKR1000 as the following picture:
 
-  ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+  ![schematics](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/Schematics.png)
 
 #
 
@@ -81,10 +81,10 @@ To build this project, you need the following items:
 
 - Go to __Dashboards__ menu & click __+Add Dashboard__ button. Then fill out the forms: __Dashboard Id, Dashboard name__ & __Dashboard description__, then click **Add Dashboard** button.
   
-  ![Setup_Thinger_Dashboard](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+  ![Setup_Thinger_Dashboard](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Thinger/master/img/2_Setup_Thinger_Dashboard.png)
 
 
-> ## **Sorry, I'll write the next steps soon! Please wait for it!**
+> ## **Sorry, I'll write the next steps asap! Please wait for it!**
 
 #
 
